@@ -42,7 +42,9 @@ main{
 #coluna1{
     padding-bottom: 5px;
 }
-
+#form{
+    padding: 3em;
+}
 footer{
     background-color: #B2DEE6;
     color: #0097B2;
